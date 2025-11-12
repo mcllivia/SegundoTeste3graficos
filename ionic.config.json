@@ -1,0 +1,7 @@
+{
+  "name": "SegundoTeste3graficos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
